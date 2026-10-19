@@ -7,11 +7,11 @@ Observations from the church secretary (Isaac Bull and Paul Edwards notes) are i
 
 | Issue | Where | Fix |
 |---|---|---|
-| All Age service is on the **4th** Sunday | `/about-us/services/` | Pick one rule, publish it once, link everywhere |
-| All Age service is on the **3rd** Sunday | `/church-life/children-and-young-people/`, `/new-here/` | As above |
-| Vicar shown as Rev Simon Pope; church secretary says the vicar post is vacant | `/about-us/whos-who/`, `/our-churches/st-johns-west-ashton/` | **Verify** with PCC; show "Vicar: currently vacant" if so |
+| All Age service is on the **4th** Sunday (correct per ChurchSuite: 25 Oct, 22 Nov; December moves to 20 Dec, Christmas) | `/about-us/services/` | Keep. Publish the rule once, link everywhere |
+| All Age service is on the **3rd** Sunday (wrong) | `/church-life/children-and-young-people/`, `/new-here/` | Change to 4th Sunday |
+| Secretary's older notes say vicar vacant; vicar is now Rev Simon Pope (confirmed 2026-10-19) | `/about-us/whos-who/`, `/our-churches/st-johns-west-ashton/` | Keep Rev Simon Pope. Add photo. Ignore "vacant" notes |
 | Kingfisher listed as a church | `/our-churches/`, nav, Who's who ("Kingfisher Rep") | Remove (no longer held) |
-| "Encounter" evening service on 1st Sunday 7pm appears only on Services | `/about-us/services/` | **Verify** it still runs; add to Plan Your Visit |
+| "Encounter" evening service on 1st Sunday 7pm appears only on Services | `/about-us/services/` | Confirmed running (usually not Nov and Dec, but ChurchSuite lists 1 Nov and 6 Dec). Add to Plan Your Visit with a "check What's On" note |
 | Youth Worker "Currently Vacant" shown as a role card | Who's who | Replace with "Youth and families: contact the office" |
 | Daily Bible message widget says "No Daily message available" | Home | Remove widget; use a verse chosen by leadership |
 | Two Giving URLs with identical content | `/giving/` and `/church-life/giving/` | One page, one URL, redirect the other |
@@ -62,3 +62,10 @@ Observations from the church secretary (Isaac Bull and Paul Edwards notes) are i
 
 - Members-only area: no longer on the site, skipped.
 - Visual design, platform migration, build.
+
+## Calendar data issues found in ChurchSuite (2026-10-19)
+
+- Duplicate or overlapping Sunday entries on 8 Nov ("Morning Service - Remembrance" and "Morning Service - Remembrance Sunday") and 15 Nov ("Morning Service" and "Morning service (with communion)").
+- Entries thin out after March 2027 (0 in April and August). The site says "calendar of services over the next few weeks", so fill or reword.
+- "Morning Break" (Fridays, 10:30am then 11am) is in the calendar but nowhere on the site.
+- Encounter on Friday 6 Nov 7pm is in addition to Sunday 1 Nov. Check this is intended.
