@@ -1,0 +1,302 @@
+Home Page:
+
+The Read More button on the home page just takes you to the home page.
+
+  For now point the button to the services page, and button text ‘read
+  more about our services’
+
+Do we want photos of all the churches, next to where they are
+introduced?
+
+  Not on front page
+
+Should the Kingfisher church notices be linked with the St T’s ones?
+
+  Not for now.
+
+  Bigger question – do we want to link to the newletters on the front
+  page?
+
+Does the safeguarding document need updating? The graphics are all on
+top of each other and presumably Allan’s name needs removing.
+
+  Need to pass this question on to the owner of the document (Martyn?)
+
+About Us:
+
+- Main page:
+
+The website says “Our Annual Report gives a much fuller description of
+St Thomas’ Parish and its life.” Is it worth linking to this report, or
+the page where it is located here?
+
+  Remove reference to annual report. Check whether the website gives the
+  sort of information that people may want to know
+
+Is it worth having photos of the churches in/next to the table?
+
+  Yes, if it can be done neatly
+
+I am not sure whether the bottom of the page is really the place for the
+information about the grants that we have received.
+
+  We do need the text, but not necessarily here. If you can find a
+  better place then please move it.
+
+- Services:
+
+Is the BCP communion still happening?
+
+  Yes
+
+Should there be a link to the Kingfisher church website on this page?
+
+  Yes, good idea. But check whether it sets a precedent for other pages
+  also needing separate links to Kingfisher.
+
+Pictures?
+
+  Yes, if there is something suitable
+
+- Who’s Who:
+
+Remove Allan.
+
+  Yes. Keep the vicar block and show it as something like ‘vicar –
+  currently vacant’. Similarly show youth worker as vacant.
+
+  Also, check all these roles against the intro of the new church
+  directory
+
+Photos of some/all of the people on this page.
+
+  Yes please!
+
+Some team leaders are mentioned, others aren’t.
+
+  Agree we are not consistent in mentioning team leaders. Suggest
+  removing roles related to specific activities (including remove Jane
+  B). Keep ‘team leader’ roles. Add Alison Farnell re Small Groups
+  Coordinator. Include Rob Slater as AV team leader.
+
+- Weddings:
+
+Photos?
+
+  Would be nice, but we’d need permission
+
+- Baptisms:
+
+Photos?
+
+  As above
+
+- Funerals:
+
+Photos?
+
+  Probably not
+
+- Rooms for Hire:
+
+Is it worth putting a note that the creche isn’t currently available for
+hire?
+
+  Mention to Frankie that the leaflet needs updating
+
+Photos?
+
+  Photos are in the leaflet, but if it improves the page visually…
+
+Our Churches:
+
+- Main Page:
+
+Surely this can be combined with:
+https://www.stthomastrowbridge.org/our-churches/ourchurches.php
+
+  Yes! Clicking on ‘our churches’ at the menu level should go straight
+  to ‘our churches’ page
+
+the giving link seems slightly out of place, if this is the right tab,
+could it be made into a “sub-tab”?
+
+  Suggest finding a place under church life
+  NB if the drop down menus could be wider then they would take less
+  space vertically
+
+- Holy Trinity:
+
+There is an asterisk, there should be some sort of footnote.
+
+  It’s correct as-is
+
+- Kingfisher Church:
+
+The weekly news needs keeping up to date.
+
+  It seems unnecessary to link to the newssheet from this website. Is it
+  linked from the KFC website?
+
+Not the Mead Academy Trust anymore?
+
+  OK
+
+Alison is now a governor of the Equa Trust, not Castle Mead itself.
+
+  OK
+
+  Review this page alongside the KFC website, and remove information
+  that is better kept on the KFC website. Make this a page that just
+  summarise what can be found on the KFC website then link to it.
+
+- St John’s:
+
+Allan is no longer the vicar. Are all the other names correct?
+
+  Show this as ‘vacant’.
+  Other names check against directory
+
+New Here?:
+
+Does BCP communion still happen?
+
+  yes
+
+Is it still citezens advice and Selwood housing parking at Holy Trinity.
+
+  Change this to suggest people look at weekly news for details of extra
+  parking provisions.
+
+Church Life:
+
+- Main Page:
+
+Maybe a picture here would be nice.
+
+  If the tool allows us to remove this page then we could.
+
+- How we run ourselves:
+
+The first paragraph needs rewording as we don’t have a vicar
+
+  Leave it for now – it describes how we would expect to operate
+
+Do we have a new administrative assistant (to replace Andrew), if not
+the second paragraph also needs changing.
+
+  “The Parish Office is run by an Administrator, assisted as needed by
+  paid or volunteer admin support”
+
+- Calendar:
+
+It might be nice to have some pictures on the calendar.
+
+  Not pictures, but some things that would be nice:
+  - today’s entries shouldn’t be white in calendar view (may just be a
+  white highlight colour)
+  - show room details even on small boxes, or use a different colour for
+  each room
+
+- Weekly News:
+
+Should the kingfisher notices be on this page as well?
+
+  This page is really the St Thomas’ Weekly News. Could change the
+  heading to say so
+
+  Is it possible to preview the PDF directly in the web page?
+
+  Is it possible to have pass-through link that’s not visible to users,
+  but still allows us to only update one location each time we publish a
+  new weekly news?
+
+  Or could have a brief intro para (like on the monthly news page) to
+  give an overview of the sort of information that is typically on the
+  weekly news
+
+- Children and Young People:
+
+What has happened to the creche, as the church office is now in the
+creche room?
+
+  “Babies and toddlers: there is a dedicated space available at the back
+  of the church”
+
+Friday Night Games – not in church rooms at the moment
+
+  Contact the office for more information
+
+Hannah is no longer the Youth Worker?
+
+  Need to hide/delete this and refer to church office
+
+- Women’s groups:
+
+Photos?
+
+- Men’s groups:
+
+Photos?
+
+  Tom’s shed should have an apostrophe
+
+- Small Groups:
+
+Allan is no longer here.
+
+  Whole page needs rewriting to reflect new approach. Write to Alison
+  Farnell to ask her for new text.
+
+Photos?
+
+- Prayer:
+
+Photos?
+
+  Stock photos for now?
+
+- Worship:
+
+Photos?
+
+  Ditto
+
+  Also note, here and possibly other sections, that once we’ve written
+  the parish profile there may be text we can adapt from there. Revisit
+  this in September when we have a mature draft of the PP
+
+Pastoral care
+
+  Name Liz Atkins as coordinator, instead of the vicar
+
+  Delete the sentence with the number of LPAs
+
+Sermons
+
+  Reword to explain that most services are livestreamed
+
+Mission:
+
+  Contact Andrew Sharland and ask him to review the page and identify
+  any changes needed
+
+- Local Mission:
+
+Town chaplains have been going for quite a while now.
+
+CATA
+
+Could replace the 2^(nd) para with a version of the following:
+A number of very effective areas of joint ministry have developed,
+supported by CATA. This includes Street Pastors, town chaplains, a debt
+advice centre, a soup run, a homeless support charity, a foodbank and a
+men’s organisation called MenUnited. This is in addition to occasional
+joint services, an annual Good Friday march of witness, and other
+outdoor services, celebrations and acts of witness.
+
+Contact Us:
+
+There is no vicar at the moment.
+
+  Replace ‘the vicar or his staff’ with ‘the church’

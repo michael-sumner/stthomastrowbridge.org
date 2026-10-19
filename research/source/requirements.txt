@@ -1,0 +1,20 @@
+Who are the target users? Needs to appeal to and be usable by different groups: people seeking for a church; enquirers about faith; new ministers or staff - what are they looking for?
+Room hirers or other "customers" (e.g. funerals, weddings): see availability and facilities and enquire about use
+Note - ChurchSuite offers functions which could / should be integrated into the website as a front end
+Simplicity - do we need all the information? Does it serve one of the user groups?
+Internal users? What uses would they make? How much of this is served by other means? What information do they want to have available?
+E.g. PCC members - should they be on the website or not?
+The more we have, the more needs updating. Which needs a dedicated person.
+What's the minimum we need to meet the requirements.
+Presentation - needs to look nice! Pictures of ourselves rather than stock images. Pictures better than words.
+This is key - who uses it and what do they need?
+Hosting … we do have a current host, but open to something better.
+Design for maintainability: minimum requirements, plus needs to be updatable by the church office
+Need to take into account different views but without being unduly swayed by strong opinions
+NB desirable to have multiple login system where individuals can have permissions assigned
+Ideally look at other churches to inspire, especially those who use ChurchSuite.
+Online giving - could be through CS but with web front end (incl Gift Aid)
+Examples: The Bridge, Coventry; St Michael's Melksham
+A key requirement is who the users are and what they would use it for.
+Note: these requirements come from a discussion with Paul Edwards
+Note: requirements are disparate - won't satisfy all the aspirations
