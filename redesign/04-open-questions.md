@@ -1,30 +1,27 @@
 # Open questions for the church
 
-Answer these and the structure plan is ready for sign-off. Ordered by what blocks most.
+Status 2026-10-19. Answers are recorded in `05-decisions-log.md`.
 
-## Blocks the plan
+## Answered
 
-1. **Vicar.** Answered: Rev Simon Pope. See `05-decisions-log.md`.
-2. **All Age service.** Answered: 4th Sunday, December on the 3rd. See `05`.
-3. **Holy Trinity.** Confirm what runs there now (Parent and Toddlers, The Island, Women's Shed). The page and the church's own description disagree.
-4. **Encounter.** Answered: runs 1st Sunday 7pm. Still check Nov and Dec.
-5. **Three logos.** Answered: three churches. Placeholders.
+1. Vicar: Rev Simon Pope.
+2. All Age service: 4th Sunday, December on the 20th.
+3. Holy Trinity: Parent and Toddlers every Monday, plus The Island, Women's Shed, events.
+4. Encounter: 1st Sunday 7pm, usually not Nov and Dec.
+5. Logos: three churches, placeholders.
+6. Address: St Thomas Church, York Buildings, Trowbridge BA14 8PT.
+7. Charity number: 1132916.
+9. Bank details stay public.
+10. All Who's who roles public, with agreement.
+11. Give under Groups and Care for now.
+12. Mission as one page.
+13. Platform: leave ChurchEdit, assess WordPress (see `06-platform-assessment.md`).
+14. No new survey for now.
 
-## Blocks content
+## Still open
 
-6. Exact St Thomas' church address and step-free access details for Plan Your Visit.
-7. Registered charity number for the footer.
-8. Who may appear in photos, and who collects consent? Parent consent for children.
-9. Is the church happy to keep bank sort code and account number on a public page?
-10. Which roles in Who's who should be public, and does each person agree?
-
-## Decisions, not facts
-
-11. **Give** as a utility link (recommended) or under Groups and Care (secretary's suggestion: under Church Life).
-12. **Mission** as one page (recommended) or several. Andrew Palmer asked the same question.
-13. **Platform.** Stay on ChurchEdit or move? Ask ChurchEdit two questions: multi-user permissions, and wider menus.
-14. **Survey.** Run a short new one before sign-off?
-
-## Challenge for you
-
-If a family found the site tonight, which single page would convince them to come on Sunday? If you cannot name it, the site is still organised around the church, not the visitor.
+- **Step-free access** details for Plan Your Visit.
+- **Photo consent:** who collects it? Parent consent for children is agreed. Recommend the church office, with a one-page form and a record of who agreed.
+- **Written agreement** for each Who's who person: get a short email reply from each and file it.
+- **Parent and Toddlers** details to confirm for the new Families page: age range, cost (if any), contact person.
+- **Platform choice** after the WordPress assessment.

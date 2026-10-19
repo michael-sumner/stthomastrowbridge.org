@@ -33,7 +33,7 @@ Observations from the church secretary (Isaac Bull and Paul Edwards notes) are i
 | `/our-churches/` | 630 | Rewrite | One page, menu goes straight here (secretary's decision). Remove Kingfisher |
 | `/our-churches/st-thomas/` | 1,700 | Rewrite | Lead with welcome and people. Typo "everts" |
 | `/our-churches/st-johns-west-ashton/` | 1,660 | Rewrite | Active church. Add service dates, address, photo. Vicar line **Verify** |
-| `/our-churches/holy-trinity/` | 1,100 | Rewrite | Venue and summer services. Asterisk footnote is correct as is (secretary). **Verify** who meets there |
+| `/our-churches/holy-trinity/` | 1,100 | Rewrite | Venue, summer services and home of Parent and Toddlers (every Monday), The Island and Women's Shed. Asterisk footnote is correct as is (secretary) |
 | `/our-churches/kingfisher/` | 1,100 | **Remove** | Redirect to `/our-churches/` |
 | `/new-here/` | 4,900 | Rewrite | Best content on the site. Split into scannable blocks, add parking, address, accessibility |
 | `/church-life/` | 640 | Remove | Menu landing page with no content (secretary: remove if the tool allows) |
@@ -63,9 +63,11 @@ Observations from the church secretary (Isaac Bull and Paul Edwards notes) are i
 - Members-only area: no longer on the site, skipped.
 - Visual design, platform migration, build.
 
-## Calendar data issues found in ChurchSuite (2026-10-19)
+## Calendar items affecting the site (ChurchSuite, 2026-10-19)
 
-- Duplicate or overlapping Sunday entries on 8 Nov ("Morning Service - Remembrance" and "Morning Service - Remembrance Sunday") and 15 Nov ("Morning Service" and "Morning service (with communion)").
-- Entries thin out after March 2027 (0 in April and August). The site says "calendar of services over the next few weeks", so fill or reword.
-- "Morning Break" (Fridays, 10:30am then 11am) is in the calendar but nowhere on the site.
-- Encounter on Friday 6 Nov 7pm is in addition to Sunday 1 Nov. Check this is intended.
+See `05-decisions-log.md` for the corrected findings. Site actions:
+
+- Add Morning Break (Fridays, St Thomas' church rooms) to Groups and Care.
+- Add a colour key to What's On: blue St Thomas', green St John's West Ashton. Orange is not a church.
+- Holy Trinity page must list Parent and Toddlers (Mondays), The Island (Tuesdays), Women's Shed (Wednesdays) and events such as Community Carols.
+- Office: mark Encounter on 6 Dec as cancelled.

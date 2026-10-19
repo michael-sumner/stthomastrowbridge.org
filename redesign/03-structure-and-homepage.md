@@ -5,7 +5,7 @@ From 39 pages to about 22. Plain-word menu labels. Utility links always visible.
 ## Header
 
 - Logo slot: `logo-main` placeholder (see `01`, section 5).
-- Utility bar: **Give**, **Weekly News**, **Contact**, Search, phone number `01225 777331`.
+- Utility bar: **Weekly News**, **Contact**, Search, phone number `01225 777331`. **Give** lives under Groups and Care for now (secretary's suggestion). Revisit once ChurchSuite giving exists. Footer also links to Give.
 - Main menu (7 items, wide drop-downs):
 
 | Menu | Contains | Replaces |
@@ -14,11 +14,11 @@ From 39 pages to about 22. Plain-word menu labels. Utility links always visible.
 | **Families** | Parent and Toddlers, Sunday groups by age, Messy Church, Impax and youth, Safeguarding for parents | `/church-life/children-and-young-people/` |
 | **What's On** | ChurchSuite calendar, Weekly and Monthly News | `/whats-on/`, `/church-life/weekly-news/`, `/church-life/monthly-newsletter/` |
 | **Our Churches** | St Thomas', St John's West Ashton, Holy Trinity | `/our-churches/*` minus Kingfisher |
-| **Groups and Care** | Small groups, Men's and women's groups, Prayer, Pastoral care | `/church-life/*` |
+| **Groups and Care** | Small groups, Men's and women's groups, Morning Break, Prayer, Pastoral care, Give | `/church-life/*` |
 | **Weddings, Baptisms and Funerals** | Three short pages | `/about-us/weddings`, `baptisms`, `funerals` |
 | **About Us** | Vision and values, Our team, How we run ourselves, Serving Trowbridge (mission), Hire a venue, Annual report and documents, Contact | rest of `/about-us/`, `/mission/*`, `/contact-us/*` |
 
-Footer: legal charity name and number, safeguarding contacts, privacy and accessibility statements, Facebook, YouTube, A Church Near You, `logo` placeholders for the other churches.
+Footer: *The Parochial Church Council of the Parish of St Thomas the Apostle, Trowbridge*, registered charity number 1132916, St Thomas Church, York Buildings, Trowbridge BA14 8PT, safeguarding contacts, privacy and accessibility statements, Facebook, YouTube, A Church Near You, `logo` placeholders for the other churches.
 
 ## Redirect map (keep old addresses working)
 
@@ -26,7 +26,7 @@ Footer: legal charity name and number, safeguarding contacts, privacy and access
 |---|---|
 | `/our-churches/kingfisher/` | `/our-churches/` |
 | `/church-life/` | `/groups-and-care/` |
-| `/giving/` and `/church-life/giving/` | `/give/` |
+| `/giving/` and `/church-life/giving/` | `/groups-and-care/give/` |
 | `/about-us/services/` | `/plan-your-visit/` |
 | `/new-here/` | `/plan-your-visit/` |
 | All other moved pages | New equivalent per audit table in `02` |
@@ -50,8 +50,8 @@ Mobile first. Large type. One idea per block.
 1. Sunday at 10.30am: what happens, how long (about an hour and a half), refreshments.
 2. Children: groups by age, babies and toddlers space, DBS and safeguarding.
 3. What to wear, what we ask of you (nothing), how we give.
-4. Getting here: address `[to confirm]`, parking, step-free access `[to confirm]`.
-5. Other services: first Sunday evening Encounter `[verify]`, third Wednesday BCP Communion at 2pm.
+4. Getting here: St Thomas Church, York Buildings, Trowbridge BA14 8PT. Parking. Step-free access `[to confirm]`.
+5. Other services: first Sunday evening Encounter at 7pm (usually not November and December, check What's On), third Wednesday BCP Communion at 2pm.
 6. Can't come? Watch online.
 7. Print version.
 
@@ -70,7 +70,7 @@ Mobile first. Large type. One idea per block.
 | Families | Martyn Whittock | Children's team |
 | Groups, Small groups | Alison Farnell | Her new text |
 | Pastoral care | Liz Atkins | |
-| Serving Trowbridge (mission) | Andrew Sharland | Review requested by secretary |
+| Serving Trowbridge (mission) | Andrew Sharland | Review requested by secretary. Andrew Palmer has left the parish |
 | Rooms for hire | Frankie Smith | Hire leaflet |
 | Photography | Simon Wright | Consent forms via church office |
 | Safeguarding policy | Martyn Whittock | PDF fix |
