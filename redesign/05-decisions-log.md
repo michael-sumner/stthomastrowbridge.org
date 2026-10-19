@@ -16,6 +16,10 @@
 | 2026-10-19 | Give sits under Groups and Care for now (secretary's suggestion) | Michael |
 | 2026-10-19 | Mission becomes one page (consultant's recommendation). Andrew Palmer has left the parish | Michael |
 | 2026-10-19 | Platform: leave ChurchEdit. Plan to move to WordPress after assessment, Squarespace as comparison | Michael |
+| 2026-10-19 | Step-free access with ramp at entrance | Michael |
+| 2026-10-19 | Photo consent collected by church office (to confirm) | Michael |
+| 2026-10-19 | Parent and Toddlers: Mondays in term time, 10am to 11.45am, Holy Trinity, BA14 9AA | Michael, flyer |
+| 2026-10-19 | Platform preference: WordPress, subject to maintainer conditions in `06` | Michael |
 | 2026-10-19 | Kingfisher page removed | Michael |
 | 2026-10-19 | No new survey for now. PCC may be asked later | Michael |
 
