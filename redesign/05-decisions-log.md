@@ -22,6 +22,8 @@
 | 2026-10-19 | Platform preference: WordPress, subject to maintainer conditions in `06` | Michael |
 | 2026-10-20 | Parent and Toddlers: free, donations welcome, no booking, run by St Thomas volunteers. Postcode BA14 9AA confirmed | Michael |
 | 2026-10-20 | St Thomas has accessible toilet, hearing loop, wheelchair seating, large-print service sheets | Michael |
+| 2026-10-20 | PCC holds WordPress logins and hosting account. Paul Edwards is the second named maintainer | Michael |
+| 2026-10-20 | Next piece: Home and Plan Your Visit copy (`08`) | Michael |
 | 2026-10-19 | Kingfisher page removed | Michael |
 | 2026-10-19 | No new survey for now. PCC may be asked later | Michael |
 

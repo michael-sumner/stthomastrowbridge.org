@@ -29,4 +29,7 @@ Status 2026-10-19. Answers are recorded in `05-decisions-log.md`.
 
 ## Still open
 
-- Platform: will the PCC hold the WordPress logins and hosting account, and is there a second named maintainer? Not yet answered.
+- Bible verse for the home page (leadership).
+- Consented photos and quotes for the home page.
+- Current safeguarding officers: the old home page and Who's who disagree (see `08`).
+- Platform conditions 1 and 2 now met (Paul Edwards second maintainer, PCC holds logins and hosting). Conditions 3 to 5 remain: charity host or care plan, one accessible theme, hand-over note.
