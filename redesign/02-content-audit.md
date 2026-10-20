@@ -63,6 +63,10 @@ Observations from the church secretary (Isaac Bull and Paul Edwards notes) are i
 - Members-only area: no longer on the site, skipped.
 - Visual design, platform migration, build.
 
+## Safeguarding names (decided 2026-10-20)
+
+The home page is the source of truth: Martyn Whittock (children and young people, overall Parish Safeguarding Officer) and Gemma Mason (vulnerable adults). Who's who still shows Liz Atkins as "Safeguarding (Vulnerable Adults and Domestic Abuse)" and has no Gemma Mason. Update Who's who: add Gemma Mason, and remove the safeguarding line from Liz Atkins unless she still holds a safeguarding role (she remains Pastoral Team Leader). Frankie Smith stays as Safeguarding Administrator. Confirm with the office.
+
 ## Calendar items affecting the site (ChurchSuite, 2026-10-19)
 
 See `05-decisions-log.md` for the corrected findings. Site actions:

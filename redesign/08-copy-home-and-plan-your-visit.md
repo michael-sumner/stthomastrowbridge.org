@@ -79,7 +79,16 @@ Three large buttons:
 
 ## Safeguarding
 
-We take the safety of children, young people and adults at risk seriously and work with the Diocese of Salisbury. Read our [Safeguarding Policy](/content/pages/documents/safeguarding-policy-current.pdf), or contact the church office on 01225 777331 or safeguarding@stthomastrowbridge.org.
+We take the safety of children, young people and adults at risk seriously and work with the Diocese of Salisbury to follow best practice. Read our [Safeguarding Policy](/content/pages/documents/safeguarding-policy-current.pdf).
+
+If you have a question or concern, contact our Parish Safeguarding Officers:
+
+- **Martyn Whittock:** children and young people, and overall Parish Safeguarding Officer.
+- **Gemma Mason:** vulnerable adults.
+
+Call 01225 777331 or email office@stthomastrowbridge.org or safeguarding@stthomastrowbridge.org.
+
+You can also contact the Diocesan Safeguarding Adviser on 07500 664800 or safeguarding@salisbury.anglican.org.
 
 ### 9. Find Us
 
@@ -170,6 +179,6 @@ Call the church office on 01225 777331 or email office@stthomastrowbridge.org. O
 - Alt text for the handprint graphic: "Coloured handprints arranged in a circle".
 - ChurchSuite calendar sits on What's On. Home page card reads the next Sunday from it.
 
-## Flag for the Church
+## Resolved: Safeguarding Officers
 
-The old home page names Martyn Whittock (children and overall safeguarding) and Gemma Mason (vulnerable adults) as safeguarding officers. Who's who names Liz Atkins for vulnerable adults and domestic abuse. These disagree. I left names out of the new home page and used the office contact instead. Confirm the current safeguarding officers before listing names.
+The old home page is more up to date than Who's who. The home page names Martyn Whittock (children and young people, overall Parish Safeguarding Officer) and Gemma Mason (vulnerable adults), so the new copy follows it. Who's who needs updating to match (see `02`).

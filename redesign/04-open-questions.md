@@ -27,10 +27,13 @@ Status 2026-10-19. Answers are recorded in `05-decisions-log.md`.
 - St Thomas access: accessible toilet, hearing loop, wheelchair seating, large print all confirmed.
 - Platform: `06-platform-assessment.md` recommends WordPress with five conditions.
 
+## Resolved
+
+- Safeguarding officers: follow the home page (Martyn Whittock, Gemma Mason). Who's who to be updated.
+
 ## Still open
 
 - Bible verse for the home page (leadership).
 - Consented photos and quotes for the home page.
 - Home page video montage: church decision and a filmer (Simon Wright to confirm). See `09`.
-- Current safeguarding officers: the old home page and Who's who disagree (see `08`).
 - Platform conditions 1 and 2 now met (Paul Edwards second maintainer, PCC holds logins and hosting). Conditions 3 to 5 remain: charity host or care plan, one accessible theme, hand-over note.
