@@ -23,11 +23,10 @@ Status 2026-10-19. Answers are recorded in `05-decisions-log.md`.
 - Step-free access: ramp at the entrance. Draft in `07-draft-content.md`.
 - Photo consent: church office (office to confirm).
 - Written agreement: leadership, expected to agree. Keep email replies on file.
-- Parent and Toddlers: drafted in `07-draft-content.md`.
+- Parent and Toddlers: drafted and confirmed in `07-draft-content.md` (free, donations welcome, no booking, run by St Thomas volunteers).
+- St Thomas access: accessible toilet, hearing loop, wheelchair seating, large print all confirmed.
 - Platform: `06-platform-assessment.md` recommends WordPress with five conditions.
 
 ## Still open
 
-- Accessible toilet, hearing loop, large print, wheelchair seating at St Thomas.
-- Parent and Toddlers: postcode check (BA14 9AA), cost, booking, who runs it.
-- Platform: can two named people maintain WordPress, and will the PCC hold the logins and hosting account?
+- Platform: will the PCC hold the WordPress logins and hosting account, and is there a second named maintainer? Not yet answered.

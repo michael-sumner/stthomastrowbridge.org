@@ -20,6 +20,8 @@
 | 2026-10-19 | Photo consent collected by church office (to confirm) | Michael |
 | 2026-10-19 | Parent and Toddlers: Mondays in term time, 10am to 11.45am, Holy Trinity, BA14 9AA | Michael, flyer |
 | 2026-10-19 | Platform preference: WordPress, subject to maintainer conditions in `06` | Michael |
+| 2026-10-20 | Parent and Toddlers: free, donations welcome, no booking, run by St Thomas volunteers. Postcode BA14 9AA confirmed | Michael |
+| 2026-10-20 | St Thomas has accessible toilet, hearing loop, wheelchair seating, large-print service sheets | Michael |
 | 2026-10-19 | Kingfisher page removed | Michael |
 | 2026-10-19 | No new survey for now. PCC may be asked later | Michael |
 

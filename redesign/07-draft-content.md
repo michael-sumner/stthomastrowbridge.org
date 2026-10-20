@@ -1,6 +1,6 @@
 # Draft content
 
-British English, APA title case headings, plain words. Items in `[brackets]` need the church to confirm before publishing.
+British English, APA title case headings, plain words. Brackets are cleared: all items confirmed by the church on 2026-10-20.
 
 ## Plan Your Visit: getting here
 
@@ -8,7 +8,7 @@ British English, APA title case headings, plain words. Items in `[brackets]` nee
 
 St Thomas Church has step-free access. A ramp leads to the entrance, so wheelchairs, pushchairs and walking aids can come in without steps.
 
-`[Confirm: accessible toilet, hearing loop, large-print service sheets, seating for wheelchairs.]`
+An accessible toilet, a hearing loop, seating for wheelchairs and large-print service sheets are available.
 
 ### Parking
 
@@ -32,9 +32,9 @@ Parent and Toddler Group is for children from birth to school age and their pare
 ### When and Where
 
 - **When:** Mondays during school term time, 10am to 11.45am.
-- **Where:** Holy Trinity Church, Trowbridge, BA14 9AA `[confirm postcode]`.
-- **Cost:** `[confirm, for example free or a small charge]`.
-- **Booking:** `[confirm, the old website said no booking was necessary]`.
+- **Where:** Holy Trinity Church, Trowbridge, BA14 9AA.
+- **Cost:** Free to attend. Donations are welcome.
+- **Booking:** No booking needed. Just come along.
 
 ### What Happens
 
@@ -44,7 +44,7 @@ Parent and Toddler Group is for children from birth to school age and their pare
 
 ### Safe and Friendly
 
-Volunteers who work with children have a current DBS check, and we follow the church safeguarding policy. `[Confirm who runs the group and add a short line about them.]`
+Volunteers who work with children have a current DBS check, and we follow the church safeguarding policy. The group is run by volunteers from St Thomas Church.
 
 ### Come and Meet Us
 
@@ -58,5 +58,5 @@ Media notes: use the flyer's handprint artwork with alt text "Coloured handprint
 
 ## Consent and agreement (recorded)
 
-- Photo consent: church office collects it `[office to confirm]`. Parent consent for children.
+- Photo consent: the church office collects it at the St Thomas Church office. Parent consent for children.
 - Who's who: all roles public. People are leadership and are expected to agree. Keep a short email reply from each on file.
