@@ -1,6 +1,6 @@
 # Platform assessment: WordPress or Squarespace
 
-ChurchEdit is out (cost of multi-user permissions, restricted design). Decision here is WordPress against Squarespace. Research date 2026-10-19. Prices and plan limits change, so confirm on the vendor's own page before buying.
+ChurchEdit is out (cost of multi-user permissions, restricted design). The church chose WordPress over Squarespace. Research date 2026-10-19. Prices and plan limits change, so confirm on the vendor's own page before buying.
 
 ## What the church needs
 
@@ -22,20 +22,36 @@ ChurchEdit is out (cost of multi-user permissions, restricted design). Decision 
 | Maintenance | You own updates, backups, security | Included |
 | Key-person risk | Highest unless two named maintainers | Low |
 | Accessibility | "Accessibility-ready" theme tag exists, but it is a minimum check. Page builders (Elementor, Divi, Beaver Builder) often produce failing markup | No claim that every template meets WCAG, test each one |
-| Running cost | Free hosting exists for registered UK charities (several providers). Paid care plans about £25 a month for updates, backups and security | Subscription, with a July 2026 price rise reported. Sources disagree on current figures |
+| Running cost | Hosting that includes updates, backups and security at about £7 a month including VAT (church's figure, provider to be confirmed) | Subscription, with a July 2026 price rise reported. Sources disagree on current figures |
 | Lock-in | Lowest, you own the files | Moderate, limited export |
 
-## Recommendation: WordPress, with conditions
+## Recommendation: WordPress
 
-Your preference holds up on contributor permissions, accessibility control, cost and ecosystem. The weakness is maintenance and who does it. Go with WordPress if all five are true:
+The church chose WordPress. It beats Squarespace on contributor permissions, accessibility control, cost and ecosystem. The weakness is maintenance, so five conditions apply. Status on 2026-10-20:
 
-1. Two named people can run updates and restore a backup, and one is not you alone.
-2. Logins and hosting account belong to the PCC (the charity), not to an individual.
-3. Hosting is either a charity-free host with daily backups or a care plan at around £25 a month. Check backup retention and whether there is a staging copy.
-4. One accessibility-ready block theme. Avoid page builders. Fewer than ten plugins. ChurchSuite embedded, not rebuilt.
-5. A one-page hand-over note: where the site lives, who has access, how to update, how to restore.
+| # | Condition | Status |
+|---|---|---|
+| 1 | Two named people can run updates and restore a backup | **Met.** Paul Edwards and Michael Sumner |
+| 2 | Logins and hosting account belong to the PCC | **Met.** PCC holds them. Michael Sumner sets up the hosting under the PCC's account |
+| 3 | Hosting with daily backups, updates and security, at modest cost | **Met in principle.** Michael Sumner sets up hosting and migrates from ChurchEdit. About £7 a month including VAT. Confirm the provider, backup retention and whether a staging copy is included |
+| 4 | One accessible block theme, no page builders, fewer than ten plugins, ChurchSuite embedded not rebuilt | Open |
+| 5 | One-page hand-over note | Open |
 
-If condition 1 or 2 cannot be met, Squarespace is the safer choice, even with less freedom.
+No paid care plan is needed. The earlier £25 a month figure is withdrawn: updates, backups and security are covered by the hosting.
+
+## Migration from ChurchEdit
+
+Michael Sumner sets up the hosting and migrates. The plan, in order:
+
+1. Confirm who owns the domain `stthomastrowbridge.org` and where it is registered. The registrant must be the PCC, with a named second contact.
+2. Set up hosting under the PCC's account. Create WordPress with the chosen theme. Keep it on a temporary address while building.
+3. Build the home page and Plan Your Visit first (copy in `08`), then the rest of the structure in `03`.
+4. Embed ChurchSuite calendar and room bookings.
+5. Put the redirect map from `03` in place, so old addresses still work on day one.
+6. Test: keyboard-only, a free accessibility check, phone, the ChurchSuite embeds.
+7. Switch the domain's DNS to the new host. Keep ChurchEdit running for one overlap period, then cancel it.
+
+Key-person note: two named maintainers (Paul Edwards, Michael Sumner) meets the condition, but Michael sets it up. The hand-over note (condition 5) is what keeps the church safe if either steps back. Write it as part of the build.
 
 ## On "AI-ready"
 
@@ -55,9 +71,6 @@ Build only the home page and Plan Your Visit page on each. Give the church offic
 - [Squarespace Pricing Guide 2026 (Outfy)](https://outfy.com/blog/squarespace-pricing)
 - [Squarespace pricing 2026 (Startups UK)](https://startups.co.uk/websites/squarespace-pricing/)
 - [Squarespace Basic plan guide (JPK Design Co)](https://www.jpkdesignco.com/blog/squarespace-basic-plan-review)
-- [Free hosting for charities (Brixly)](https://brixly.uk/free-hosting-for-charities)
-- [Free charity hosting (Spire Hosting)](https://spirehosting.co.uk/free-charity-web-hosting/)
-- [WordPress maintenance for charities (WebsiteHelper)](https://www.websitehelper.co.uk/wordpress-maintenance-for-charities/)
 - [Twenty Twenty-Two accessibility-ready (WP Tavern)](https://wptavern.com/twenty-twenty-two-is-the-first-default-block-theme-to-get-tagged-as-accessibility-ready)
 - [Do Squarespace sites meet WCAG (BOIA)](https://boia.org/blog/do-squarespace-sites-meet-wcag-requirements)
 - [WordPress accessibility guide (Deque)](https://www.deque.com/blog/wordpress-accessibility/)

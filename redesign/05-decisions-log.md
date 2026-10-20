@@ -26,6 +26,8 @@
 | 2026-10-20 | Next piece: Home and Plan Your Visit copy (`08`) | Michael |
 | 2026-10-20 | Suggest a home page video montage of short clips (worship band, hot drinks, drone, outdoor activities, post-service chat). Start small, add over time. Simon Wright may film | Michael |
 | 2026-10-20 | Safeguarding officers follow the home page: Martyn Whittock (children, overall) and Gemma Mason (vulnerable adults). Who's who to match | Michael |
+| 2026-10-20 | Hosting: Michael Sumner sets up hosting and migrates from ChurchEdit. About £7 a month including VAT for hosting with updates, backups and security. No £25 a month care plan | Michael |
+| 2026-10-20 | Two named maintainers: Paul Edwards and Michael Sumner | Michael |
 | 2026-10-19 | Kingfisher page removed | Michael |
 | 2026-10-19 | No new survey for now. PCC may be asked later | Michael |
 

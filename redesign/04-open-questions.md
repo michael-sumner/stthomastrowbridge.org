@@ -36,4 +36,6 @@ Status 2026-10-19. Answers are recorded in `05-decisions-log.md`.
 - Bible verse for the home page (leadership).
 - Consented photos and quotes for the home page.
 - Home page video montage: church decision and a filmer (Simon Wright to confirm). See `09`.
-- Platform conditions 1 and 2 now met (Paul Edwards second maintainer, PCC holds logins and hosting). Conditions 3 to 5 remain: charity host or care plan, one accessible theme, hand-over note.
+- Platform conditions 4 and 5 remain: one accessible theme, hand-over note.
+- Domain `stthomastrowbridge.org`: who owns it and where is it registered? It must end up with the PCC.
+- Hosting provider, backup retention and staging copy to be confirmed (about £7 a month including VAT).
