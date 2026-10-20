@@ -24,6 +24,7 @@
 | 2026-10-20 | St Thomas has accessible toilet, hearing loop, wheelchair seating, large-print service sheets | Michael |
 | 2026-10-20 | PCC holds WordPress logins and hosting account. Paul Edwards is the second named maintainer | Michael |
 | 2026-10-20 | Next piece: Home and Plan Your Visit copy (`08`) | Michael |
+| 2026-10-20 | Suggest a home page video montage of short clips (worship band, hot drinks, drone, outdoor activities, post-service chat). Start small, add over time. Simon Wright may film | Michael |
 | 2026-10-19 | Kingfisher page removed | Michael |
 | 2026-10-19 | No new survey for now. PCC may be asked later | Michael |
 

@@ -13,7 +13,7 @@ Only three slots stay open: the leadership's chosen Bible verse, consented photo
 
 ### 1. Hero
 
-`[Photo slot: people at St Thomas', adults only unless parents have consented]`
+`[Video slot: silent looping montage of short clips, with a Pause button, poster image and text description. See 09. Photo slot until the montage exists: people at St Thomas', adults only unless parents have consented]`
 
 # Welcome to St Thomas' Trowbridge
 
